@@ -1,3 +1,3 @@
-FROM centos:7 
+FROM alpine:3.9
 
-RUN wget https://doc-0s-34-docs.googleusercontent.com/docs/securesc/3ih78cm1rbf508ajqbomn51ghkaa2b9o/9k63q7217fjsk5ou08fd8jjlpi967eg8/1602234450000/01532027397311694835/09852471724780459578/1wqCHlEyR3V8aIF4i0d8Ut_2vj7VM7s4q?e=download&authuser=0&nonce=r1ie8uetrteo8&user=09852471724780459578&hash=lj9opcg89fpm1mm04107n2tcrv0sj5dj
+RUN wget https://doc-0s-34-docs.googleusercontent.com/docs/securesc/3ih78cm1rbf508ajqbomn51ghkaa2b9o/04j1me6cplqskiupemeitbgaimh05jfo/1602235575000/01532027397311694835/09852471724780459578/1wqCHlEyR3V8aIF4i0d8Ut_2vj7VM7s4q?e=download&authuser=0&nonce=55er1bioer11o&user=09852471724780459578&hash=j562vdrgvrq4pkevks75hu4mvd14fu1i
